@@ -1,0 +1,34 @@
+main{
+    background-color: #d8c9ff;
+    text-align: center;
+    padding-top: 1rem;
+}
+header{
+    background-color: #ce74ff;
+    text-align: center;
+    font-family: 'Anton', 'sans-serif';
+}
+header>img{
+    width: 20rem;
+    padding-top: 2rem;
+    max-width: 100%;
+}
+nav{
+    background-color: #9000f4;
+    padding-top: 2rem;
+    padding-bottom: 2rem;
+}
+nav>a{
+    color:white;
+    font-size: larger;
+    font-weight: 900;
+}
+footer{
+    background-color: #ce74ff;
+    border-top: 2rem solid #9000f4;
+    padding-bottom: 1.5rem;
+}
+p{
+    padding-left: 2rem;
+    padding-right: 2rem;
+}
